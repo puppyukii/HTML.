@@ -1,0 +1,33 @@
+<html>
+<head><h4 align="center">Uki Student</h4></head>
+<body>
+<form>
+<fieldset style="background-color:lightblue;"from="from1">
+  <legend>Uki.Life:</legend><br>
+First name:
+<input type="text" name="First name">
+<br>
+Last name :
+<input type="text" name="Last name">
+<br>
+Reg No:
+<input type="text" name="Reg.No">
+<br>
+Date of Birth :
+<input type="text" name= "Date of birth">
+<br>
+Gender:
+<input type="radio" name="gender"value="male">male
+<input type="radio" name="gender"value="female">female
+<br>fo
+Favourite Subjects:
+<input type="checkbox" name="favourite subjects"value="English">English
+<input type="checkbox" name="favourite subject" value="presonal coching">presonal coching
+<input type="checkbox" name="favourite subject" value="web devlopment"> web devlopment
+<input type="checkbox" name="favourite subject" value="programming">programming
+<pre>Feedback:
+<pre>              <textarea name="name" rows="20" cols="50"></textarea></pre>
+                                              <input type="Reset"value="Rest"><input type="submit"value="submit"></pre>
+</form>
+</body>
+</html>
